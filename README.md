@@ -66,5 +66,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
 
 <!-- ELIMINARLO  -->
-
-Este es el clon de Twitter
+Project carried out in the company Infosoft as part of the Supervised Professional Practices of the National Technological University (UTN). Developed with PHP and Laravel, SQLite and Tailwind CSS, following the Model-View-Controller (MVC) design pattern.
